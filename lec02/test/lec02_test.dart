@@ -1,4 +1,4 @@
-import 'package:lec01/lec01.dart';
+import 'package:lec02/lec02.dart';
 import 'package:test/test.dart';
 
 void main() {
