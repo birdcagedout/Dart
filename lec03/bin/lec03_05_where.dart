@@ -1,4 +1,5 @@
 // where함수(map함수와 유사하나 true/false 조건을 걸어서 true인 것들만 처리할 수 있다. 파이썬의 filter함수 같은 효과)
+// 파라미터로 predicate(=bool값을 리턴하는 함수)을 받아서, 리턴값이 true인 요소들만으로 iterable객체를 만들어서 리턴
 
 void main() {
   List<Map<String, String>> people = [
