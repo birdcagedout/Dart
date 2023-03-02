@@ -22,7 +22,5 @@ void main() {
   // 3. value값만 map함수 적용
   final valuesList = harryPotter.values.map((e) => '[해리 포터 캐릭터] $e').toList();
   print(valuesList);
-
-  int a = 1;
-  print(a is double);
+  
 }
